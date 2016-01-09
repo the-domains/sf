@@ -1,0 +1,28 @@
+name: sf
+favicon: null
+layout_spectrum: 0.7992768723051995
+typography_spectrum: 0.18962944019585848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.166881637647748
+  lightness: 0.2705244228709489
+  saturation: 0.3146063082385808
+  rhythmicContrast: 0.8656228519976139
+purpose: []
